@@ -1,4 +1,4 @@
-# GrowBet BI Analytics
+# Bet BI Analytics
 | a | Total de faturamento e ticket médio | Executivo |
 | b | Performance de vendas por canal | Executivo |
 | c | Top 5 produtos e clientes por receita | Analítico |

@@ -8,10 +8,6 @@ Case técnico de Business Intelligence — análise de performance comercial (re
 
 ## 🖥️ O Dashboard
 
-### Home
-Página de capa, com navegação por ícones para as demais páginas.
-
-![Home](images/dashboard-home.png)
 
 ### Executivo
 Visão gerencial resumida: KPIs principais, performance por canal, origem de lead e receita mensal.

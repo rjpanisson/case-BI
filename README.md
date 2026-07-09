@@ -1,6 +1,6 @@
 # Bet BI Analytics
 
-*"Quantos leads viraram cliente?" É a primeira pergunta que qualquer gestor comercial faz. E a primeira lição deste case foi descobrir que, às vezes, a base de dados que você recebe simplesmente não permite responder isso — e o trabalho de um analista de dados começa exatamente aí: em saber identificar essa lacuna, comunicá-la com clareza, e ainda assim extrair valor real do que existe.
+*"Quantos leads viraram cliente?" É a primeira pergunta que qualquer gestor comercial faz. E a primeira lição deste case foi descobrir que, às vezes, a base de dados que você recebe simplesmente não permite responder isso e o trabalho de um analista de dados começa exatamente aí: em saber identificar essa lacuna, comunicá-la com clareza, e ainda assim extrair valor real do que existe.
 
 Este repositório documenta o case técnico completo do CSV bruto ao dashboard final para uma vaga de Analista de Dados (Pleno), incluindo as decisões, os ajustes de rota e os motivos por trás de cada escolha.
 
@@ -12,7 +12,7 @@ Este repositório documenta o case técnico completo do CSV bruto ao dashboard f
 
 A empresa (fictícia, do setor de apostas esportivas) forneceu três arquivos `vendas.csv`, `clientes.csv`, `campanhas.csv`  cobrindo 6 meses de operação (jul–dez/2025), com uma pergunta central: **como está a saúde comercial do negócio, e onde estão as oportunidades?**
 
-O enunciado pedia 5 respostas obrigatórias: faturamento e ticket médio, taxa de conversão por canal, top produtos/clientes, retenção de clientes, e ROI por campanha. Simples de enunciar. Nem tudo simples de entregar com integridade — e é aí que a maior parte das decisões técnicas deste case aconteceu.
+O enunciado pedia 5 respostas obrigatórias: faturamento e ticket médio, taxa de conversão por canal, top produtos/clientes, retenção de clientes, e ROI por campanha. Simples de enunciar. Nem tudo simples de entregar com integridade e é aí que a maior parte das decisões técnicas deste case aconteceu.
 
 ## A jornada: da ingestão ao insight
 

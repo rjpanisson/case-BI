@@ -1,4 +1,4 @@
-# GrowBet BI Analytics
+# Bet BI Analytics
 
 *"Quantos leads viraram cliente?" É a primeira pergunta que qualquer gestor comercial faz. E a primeira lição deste case foi descobrir que, às vezes, a base de dados que você recebe simplesmente não permite responder isso — e o trabalho de um analista de dados começa exatamente aí: em saber identificar essa lacuna, comunicá-la com clareza, e ainda assim extrair valor real do que existe.
 
@@ -30,14 +30,11 @@ O enunciado pedia 5 respostas obrigatórias: faturamento e ticket médio, taxa d
 
 Um dashboard de 3 páginas — Home, Executivo e Analítico — construído em Power BI com menu de navegação customizado, cards de KPI com variação automática, e mais de 20 medidas DAX.
 
-### Home
-![Home](images/dashboard-home.png)
-
 ### Executivo — leitura rápida para gestão
-![Executivo](images/dashboard-executivo.png)
+![Executivo](growbet-bi-case/images/dashboard-executivo.png)
 
 ### Analítico — aprofundamento para quem quer investigar
-![Analítico](images/dashboard-analitico.png)
+![Analítico](growbet-bi-case/images/dashboard-analitico.png)
 
 ## O que os dados revelaram
 

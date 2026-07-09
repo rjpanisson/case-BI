@@ -87,4 +87,4 @@ Documentação técnica completa (decisões de modelagem, resultado da auditoria
 
 ---
 
-Desenvolvido por **Jhonathan Panisson** — [GitHub](https://github.com/rjpanisson)
+Desenvolvido por **Jhonathan Panisson**  [GitHub](https://github.com/rjpanisson)

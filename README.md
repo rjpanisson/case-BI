@@ -1,8 +1,12 @@
 # Bet BI Analytics
 | a | Total de faturamento e ticket médio | Executivo |
+
 | b | Performance de vendas por canal | Executivo |
+
 | c | Top 5 produtos e clientes por receita | Analítico |
+
 | d | Retenção mensal (novos vs. recorrentes) | Analítico |
+
 | e | ROAS por campanha (receita/budget) | Analítico |
 
 ## 📌 Principais achados
